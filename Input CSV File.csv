@@ -1,0 +1,169 @@
+Employee,Day,Shift
+employee-1,Monday (Week 1),Night
+employee-1,Tuesday (Week 1),Night
+employee-1,Wednesday (Week 1),No Work
+employee-1,Thursday (Week 1),No Work
+employee-1,Friday (Week 1),Night
+employee-1,Saturday (Week 1),Night
+employee-1,Sunday (Week 1),Night
+employee-1,Monday (Week 2),Night
+employee-1,Tuesday (Week 2),Night
+employee-1,Wednesday (Week 2),No Work
+employee-1,Thursday (Week 2),No Work
+employee-1,Friday (Week 2),Night
+employee-1,Saturday (Week 2),Night
+employee-1,Sunday (Week 2),Night
+employee-2,Monday (Week 1),Night
+employee-2,Tuesday (Week 1),Night
+employee-2,Wednesday (Week 1),Night
+employee-2,Thursday (Week 1),Night
+employee-2,Friday (Week 1),Night
+employee-2,Saturday (Week 1),No Work
+employee-2,Sunday (Week 1),No Work
+employee-2,Monday (Week 2),Night
+employee-2,Tuesday (Week 2),Night
+employee-2,Wednesday (Week 2),Night
+employee-2,Thursday (Week 2),Night
+employee-2,Friday (Week 2),Night
+employee-2,Saturday (Week 2),No Work
+employee-2,Sunday (Week 2),No Work
+employee-3,Monday (Week 1),No Work
+employee-3,Tuesday (Week 1),No Work
+employee-3,Wednesday (Week 1),Morning
+employee-3,Thursday (Week 1),Morning
+employee-3,Friday (Week 1),Morning
+employee-3,Saturday (Week 1),Morning
+employee-3,Sunday (Week 1),Morning
+employee-3,Monday (Week 2),No Work
+employee-3,Tuesday (Week 2),No Work
+employee-3,Wednesday (Week 2),Morning
+employee-3,Thursday (Week 2),Morning
+employee-3,Friday (Week 2),Morning
+employee-3,Saturday (Week 2),Morning
+employee-3,Sunday (Week 2),Morning
+employee-4,Monday (Week 1),Morning
+employee-4,Tuesday (Week 1),No Work
+employee-4,Wednesday (Week 1),No Work
+employee-4,Thursday (Week 1),Morning
+employee-4,Friday (Week 1),Morning
+employee-4,Saturday (Week 1),Morning
+employee-4,Sunday (Week 1),Morning
+employee-4,Monday (Week 2),Morning
+employee-4,Tuesday (Week 2),No Work
+employee-4,Wednesday (Week 2),No Work
+employee-4,Thursday (Week 2),Morning
+employee-4,Friday (Week 2),Morning
+employee-4,Saturday (Week 2),Morning
+employee-4,Sunday (Week 2),Morning
+employee-5,Monday (Week 1),No Work
+employee-5,Tuesday (Week 1),Morning
+employee-5,Wednesday (Week 1),Morning
+employee-5,Thursday (Week 1),Morning
+employee-5,Friday (Week 1),Morning
+employee-5,Saturday (Week 1),Morning
+employee-5,Sunday (Week 1),No Work
+employee-5,Monday (Week 2),No Work
+employee-5,Tuesday (Week 2),Morning
+employee-5,Wednesday (Week 2),Morning
+employee-5,Thursday (Week 2),Morning
+employee-5,Friday (Week 2),Morning
+employee-5,Saturday (Week 2),Morning
+employee-5,Sunday (Week 2),No Work
+employee-6,Monday (Week 1),Night
+employee-6,Tuesday (Week 1),Night
+employee-6,Wednesday (Week 1),Night
+employee-6,Thursday (Week 1),Night
+employee-6,Friday (Week 1),Night
+employee-6,Saturday (Week 1),No Work
+employee-6,Sunday (Week 1),No Work
+employee-6,Monday (Week 2),Night
+employee-6,Tuesday (Week 2),Night
+employee-6,Wednesday (Week 2),Night
+employee-6,Thursday (Week 2),Night
+employee-6,Friday (Week 2),Night
+employee-6,Saturday (Week 2),No Work
+employee-6,Sunday (Week 2),No Work
+employee-7,Monday (Week 1),Night
+employee-7,Tuesday (Week 1),Night
+employee-7,Wednesday (Week 1),Night
+employee-7,Thursday (Week 1),Night
+employee-7,Friday (Week 1),Night
+employee-7,Saturday (Week 1),No Work
+employee-7,Sunday (Week 1),No Work
+employee-7,Monday (Week 2),Night
+employee-7,Tuesday (Week 2),Night
+employee-7,Wednesday (Week 2),Night
+employee-7,Thursday (Week 2),Night
+employee-7,Friday (Week 2),Night
+employee-7,Saturday (Week 2),No Work
+employee-7,Sunday (Week 2),No Work
+employee-8,Monday (Week 1),Night
+employee-8,Tuesday (Week 1),Night
+employee-8,Wednesday (Week 1),Night
+employee-8,Thursday (Week 1),Night
+employee-8,Friday (Week 1),No Work
+employee-8,Saturday (Week 1),No Work
+employee-8,Sunday (Week 1),Night
+employee-8,Monday (Week 2),Night
+employee-8,Tuesday (Week 2),Night
+employee-8,Wednesday (Week 2),Night
+employee-8,Thursday (Week 2),Night
+employee-8,Friday (Week 2),No Work
+employee-8,Saturday (Week 2),No Work
+employee-8,Sunday (Week 2),Night
+employee-9,Monday (Week 1),No Work
+employee-9,Tuesday (Week 1),Morning
+employee-9,Wednesday (Week 1),Morning
+employee-9,Thursday (Week 1),Morning
+employee-9,Friday (Week 1),Morning
+employee-9,Saturday (Week 1),Morning
+employee-9,Sunday (Week 1),No Work
+employee-9,Monday (Week 2),No Work
+employee-9,Tuesday (Week 2),Morning
+employee-9,Wednesday (Week 2),Morning
+employee-9,Thursday (Week 2),Morning
+employee-9,Friday (Week 2),Morning
+employee-9,Saturday (Week 2),Morning
+employee-9,Sunday (Week 2),No Work
+employee-10,Monday (Week 1),Morning
+employee-10,Tuesday (Week 1),No Work
+employee-10,Wednesday (Week 1),No Work
+employee-10,Thursday (Week 1),Morning
+employee-10,Friday (Week 1),Morning
+employee-10,Saturday (Week 1),Morning
+employee-10,Sunday (Week 1),Morning
+employee-10,Monday (Week 2),Morning
+employee-10,Tuesday (Week 2),No Work
+employee-10,Wednesday (Week 2),No Work
+employee-10,Thursday (Week 2),Morning
+employee-10,Friday (Week 2),Morning
+employee-10,Saturday (Week 2),Morning
+employee-10,Sunday (Week 2),Morning
+employee-11,Monday (Week 1),Night
+employee-11,Tuesday (Week 1),Night
+employee-11,Wednesday (Week 1),Night
+employee-11,Thursday (Week 1),Night
+employee-11,Friday (Week 1),Night
+employee-11,Saturday (Week 1),No Work
+employee-11,Sunday (Week 1),No Work
+employee-11,Monday (Week 2),Night
+employee-11,Tuesday (Week 2),Night
+employee-11,Wednesday (Week 2),Night
+employee-11,Thursday (Week 2),Night
+employee-11,Friday (Week 2),Night
+employee-11,Saturday (Week 2),No Work
+employee-11,Sunday (Week 2),No Work
+employee-12,Monday (Week 1),Morning
+employee-12,Tuesday (Week 1),Morning
+employee-12,Wednesday (Week 1),Morning
+employee-12,Thursday (Week 1),Morning
+employee-12,Friday (Week 1),No Work
+employee-12,Saturday (Week 1),No Work
+employee-12,Sunday (Week 1),Morning
+employee-12,Monday (Week 2),Morning
+employee-12,Tuesday (Week 2),Morning
+employee-12,Wednesday (Week 2),Morning
+employee-12,Thursday (Week 2),Morning
+employee-12,Friday (Week 2),No Work
+employee-12,Saturday (Week 2),No Work
+employee-12,Sunday (Week 2),Morning
